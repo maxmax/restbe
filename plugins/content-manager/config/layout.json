@@ -42,5 +42,12 @@
         "appearance": ""
       }
     }
+  },
+  "testdev": {
+    "attributes": {
+      "names": {
+        "appearance": ""
+      }
+    }
   }
 }

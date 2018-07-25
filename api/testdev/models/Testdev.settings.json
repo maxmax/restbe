@@ -1,15 +1,15 @@
 {
   "connection": "default",
-  "collectionName": "saveddev",
+  "collectionName": "testdev",
   "info": {
-    "name": "saveddev",
-    "description": "test content type"
+    "name": "testdev",
+    "description": ""
   },
   "options": {
     "timestamps": true
   },
   "attributes": {
-    "title": {
+    "names": {
       "type": "string"
     }
   }
