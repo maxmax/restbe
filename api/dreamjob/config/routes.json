@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/dreamjob",
+      "handler": "Dreamjob.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/dreamjob/count",
+      "handler": "Dreamjob.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/dreamjob/:_id",
+      "handler": "Dreamjob.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/dreamjob",
+      "handler": "Dreamjob.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/dreamjob/:_id",
+      "handler": "Dreamjob.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/dreamjob/:_id",
+      "handler": "Dreamjob.destroy",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

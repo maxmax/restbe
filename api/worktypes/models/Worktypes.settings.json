@@ -1,0 +1,16 @@
+{
+  "connection": "default",
+  "collectionName": "work-types",
+  "info": {
+    "name": "worktypes",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

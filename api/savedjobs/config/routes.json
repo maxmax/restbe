@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/savedjobs",
+      "handler": "Savedjobs.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/savedjobs/count",
+      "handler": "Savedjobs.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/savedjobs/:_id",
+      "handler": "Savedjobs.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/savedjobs",
+      "handler": "Savedjobs.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/savedjobs/:_id",
+      "handler": "Savedjobs.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/savedjobs/:_id",
+      "handler": "Savedjobs.destroy",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

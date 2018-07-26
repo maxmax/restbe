@@ -1,0 +1,25 @@
+{
+  "connection": "default",
+  "collectionName": "saved-jobs",
+  "info": {
+    "name": "savedjobs",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "applied": {
+      "type": "boolean"
+    },
+    "user": {
+      "model": "user",
+      "via": "savedjobs",
+      "plugin": "users-permissions"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "connection": "default",
+  "collectionName": "locations",
+  "info": {
+    "name": "locations",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    }
+  }
+}

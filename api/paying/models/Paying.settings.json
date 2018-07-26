@@ -1,0 +1,16 @@
+{
+  "connection": "default",
+  "collectionName": "paying",
+  "info": {
+    "name": "paying",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

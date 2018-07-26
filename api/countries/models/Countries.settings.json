@@ -1,0 +1,20 @@
+{
+  "connection": "default",
+  "collectionName": "countries",
+  "info": {
+    "name": "countries",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "country": {
+      "type": "string"
+    }
+  }
+}

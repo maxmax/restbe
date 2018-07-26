@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/countries",
+      "handler": "Countries.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/countries/count",
+      "handler": "Countries.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/countries/:_id",
+      "handler": "Countries.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/countries",
+      "handler": "Countries.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/countries/:_id",
+      "handler": "Countries.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/countries/:_id",
+      "handler": "Countries.destroy",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

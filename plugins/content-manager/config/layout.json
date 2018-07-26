@@ -62,5 +62,76 @@
         "appearance": ""
       }
     }
+  },
+  "dreamJob": {
+    "attributes": {
+      "content": {
+        "appearance": ""
+      }
+    }
+  },
+  "savedJobs": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "applied": {
+        "appearance": ""
+      }
+    }
+  },
+  "pages": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "description": {
+        "appearance": ""
+      },
+      "showHero": {
+        "appearance": ""
+      }
+    }
+  },
+  "countries": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "country": {
+        "appearance": ""
+      }
+    }
+  },
+  "locations": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "country": {
+        "appearance": ""
+      }
+    }
+  },
+  "listed": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      }
+    }
+  },
+  "paying": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      }
+    }
+  },
+  "workTypes": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      }
+    }
   }
 }

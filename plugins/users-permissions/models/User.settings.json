@@ -38,6 +38,14 @@
       "via": "users",
       "plugin": "users-permissions",
       "configurable": false
+    },
+    "dreamjob": {
+      "model": "dreamjob",
+      "via": "user"
+    },
+    "savedjobs": {
+      "model": "savedjobs",
+      "via": "user"
     }
   }
 }

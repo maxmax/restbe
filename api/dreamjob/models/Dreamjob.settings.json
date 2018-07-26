@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "dream-job",
+  "info": {
+    "name": "dreamjob",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "content": {
+      "type": "text",
+      "required": true
+    },
+    "user": {
+      "model": "user",
+      "via": "dreamjob",
+      "plugin": "users-permissions"
+    }
+  }
+}

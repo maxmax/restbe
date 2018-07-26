@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/paying",
+      "handler": "Paying.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/paying/count",
+      "handler": "Paying.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/paying/:_id",
+      "handler": "Paying.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/paying",
+      "handler": "Paying.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/paying/:_id",
+      "handler": "Paying.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/paying/:_id",
+      "handler": "Paying.destroy",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
