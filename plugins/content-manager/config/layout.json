@@ -49,5 +49,18 @@
         "appearance": ""
       }
     }
+  },
+  "sendMessage": {
+    "attributes": {
+      "full_name": {
+        "appearance": ""
+      },
+      "email_address": {
+        "appearance": ""
+      },
+      "message": {
+        "appearance": ""
+      }
+    }
   }
 }
