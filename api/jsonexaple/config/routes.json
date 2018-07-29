@@ -2,48 +2,48 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/worktypes",
-      "handler": "Worktypes.find",
+      "path": "/jsonexaple",
+      "handler": "Jsonexaple.find",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/worktypes/count",
-      "handler": "Worktypes.count",
+      "path": "/jsonexaple/count",
+      "handler": "Jsonexaple.count",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/worktypes/:_id",
-      "handler": "Worktypes.findOne",
+      "path": "/jsonexaple/:_id",
+      "handler": "Jsonexaple.findOne",
       "config": {
         "policies": []
       }
     },
     {
       "method": "POST",
-      "path": "/worktypes",
-      "handler": "Worktypes.create",
+      "path": "/jsonexaple",
+      "handler": "Jsonexaple.create",
       "config": {
         "policies": []
       }
     },
     {
       "method": "PUT",
-      "path": "/worktypes/:_id",
-      "handler": "Worktypes.update",
+      "path": "/jsonexaple/:_id",
+      "handler": "Jsonexaple.update",
       "config": {
         "policies": []
       }
     },
     {
       "method": "DELETE",
-      "path": "/worktypes/:_id",
-      "handler": "Worktypes.destroy",
+      "path": "/jsonexaple/:_id",
+      "handler": "Jsonexaple.destroy",
       "config": {
         "policies": []
       }

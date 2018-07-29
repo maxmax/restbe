@@ -5,11 +5,11 @@
       "connector": "strapi-mongoose",
       "settings": {
         "client": "mongo",
-        "host": "ds253871.mlab.com",
-        "port": "53871",
-        "database": "heroku_7vj4cd28",
-        "username": "heroku_7vj4cd28",
-        "password": "db7qmuq29bqftguuoap5l8kjfh"
+        "host": "127.0.0.1",
+        "port": 27017,
+        "database": "strapi",
+        "username": "",
+        "password": ""
       },
       "options": {
         "authenticationDatabase": "",

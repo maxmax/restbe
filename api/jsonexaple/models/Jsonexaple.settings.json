@@ -1,0 +1,14 @@
+{
+  "connection": "default",
+  "collectionName": "json-exaple",
+  "info": {
+    "name": "jsonexaple",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    
+  }
+}

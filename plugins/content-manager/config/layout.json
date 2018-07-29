@@ -133,5 +133,12 @@
         "appearance": ""
       }
     }
+  },
+  "testEl": {
+    "attributes": {
+      "code": {
+        "appearance": ""
+      }
+    }
   }
 }
