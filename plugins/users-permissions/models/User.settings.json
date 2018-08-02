@@ -39,7 +39,7 @@
       "plugin": "users-permissions",
       "configurable": false
     },
-    "dreamjob": {
+    "mydreamjob": {
       "type": "text"
     }
   },
