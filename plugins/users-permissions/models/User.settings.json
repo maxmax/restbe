@@ -39,13 +39,12 @@
       "plugin": "users-permissions",
       "configurable": false
     },
-    "dreamjob": {
-      "model": "dreamjob",
-      "via": "user"
+    "dream-job": {
+      "type": "text"
     },
-    "savedjobs": {
-      "model": "savedjobs",
-      "via": "user"
+    "birthDate": {
+      "type": "date"
     }
-  }
+  },
+  "collectionName": "users-permissions_user"
 }

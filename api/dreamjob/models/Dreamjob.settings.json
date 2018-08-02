@@ -12,11 +12,6 @@
     "content": {
       "type": "text",
       "required": true
-    },
-    "user": {
-      "model": "user",
-      "via": "dreamjob",
-      "plugin": "users-permissions"
     }
   }
 }
