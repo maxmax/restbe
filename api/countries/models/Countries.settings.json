@@ -15,6 +15,11 @@
     },
     "country": {
       "type": "string"
+    },
+    "user": {
+      "model": "user",
+      "via": "countries",
+      "plugin": "users-permissions"
     }
   }
 }
