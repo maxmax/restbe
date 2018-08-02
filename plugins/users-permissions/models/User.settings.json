@@ -39,14 +39,8 @@
       "plugin": "users-permissions",
       "configurable": false
     },
-    "mydreamjob": {
+    "dream-job": {
       "type": "text"
-    },
-    "birthDate": {
-      "type": "string"
-    },
-    "phone": {
-      "type": "stringt"
     },
     "countries": {
       "model": "countries",
