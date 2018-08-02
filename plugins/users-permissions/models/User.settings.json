@@ -39,11 +39,8 @@
       "plugin": "users-permissions",
       "configurable": false
     },
-    "dream-job": {
+    "dreamjob": {
       "type": "text"
-    },
-    "birthDate": {
-      "type": "date"
     }
   },
   "collectionName": "users-permissions_user"
