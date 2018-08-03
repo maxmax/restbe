@@ -39,12 +39,8 @@
       "plugin": "users-permissions",
       "configurable": false
     },
-    "dream-job": {
-      "type": "text"
-    },
     "countries": {
-      "model": "countries",
-      "via": "user"
+      "model": "countries"
     },
     "mydreamjob": {
       "type": "text"
