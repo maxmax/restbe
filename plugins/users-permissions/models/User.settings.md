@@ -54,9 +54,6 @@
     },
     "phone": {
       "type": "string"
-    },
-    "linkedin": {
-      "type": "string"
     }
   },
   "collectionName": "users-permissions_user"
