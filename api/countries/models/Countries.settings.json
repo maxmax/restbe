@@ -17,7 +17,7 @@
       "type": "string"
     },
     "user": {
-      "model": "user",
+      "collection": "user",
       "via": "countries",
       "plugin": "users-permissions"
     }
