@@ -53,6 +53,11 @@
     },
     "linkedin": {
       "type": "string"
+    },
+    "mymedia": {
+      "collection": "file",
+      "via": "related",
+      "plugin": "upload"
     }
   },
   "collectionName": "users-permissions_user"
