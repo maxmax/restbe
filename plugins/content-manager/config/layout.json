@@ -140,5 +140,24 @@
         "appearance": ""
       }
     }
+  },
+  "jobs": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "video": {
+        "appearance": ""
+      },
+      "content": {
+        "appearance": "WYSIWYG"
+      },
+      "salary": {
+        "appearance": ""
+      },
+      "workType": {
+        "appearance": ""
+      }
+    }
   }
 }

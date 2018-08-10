@@ -1,0 +1,34 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "jobs",
+    "description": "latest jobs"
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "video": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "salary": {
+      "type": "string"
+    },
+    "workType": {
+      "type": "string"
+    }
+  }
+}
