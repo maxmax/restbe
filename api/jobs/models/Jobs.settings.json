@@ -1,6 +1,6 @@
 {
   "connection": "default",
-  "collectionName": "",
+  "collectionName": "jobs",
   "info": {
     "name": "jobs",
     "description": "latest jobs"
@@ -27,8 +27,8 @@
     "salary": {
       "type": "string"
     },
-    "workType": {
-      "type": "string"
+    "worktypes": {
+      "model": "worktypes"
     }
   }
 }
