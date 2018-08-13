@@ -29,6 +29,11 @@
     },
     "worktypes": {
       "model": "worktypes"
+    },
+    "user": {
+      "model": "user",
+      "via": "jobs",
+      "plugin": "users-permissions"
     }
   }
 }
