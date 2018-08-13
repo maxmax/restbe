@@ -37,6 +37,9 @@
     },
     "employer": {
       "model": "employers"
+    },
+    "joblocation": {
+      "model": "joblocation"
     }
   }
 }
