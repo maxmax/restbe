@@ -175,5 +175,12 @@
         "appearance": ""
       }
     }
+  },
+  "jobLocation": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      }
+    }
   }
 }
