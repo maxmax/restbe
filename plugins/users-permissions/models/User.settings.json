@@ -60,7 +60,7 @@
       "plugin": "upload"
     },
     "jobs": {
-      "collection": "jobs",
+      "model": "jobs",
       "via": "user"
     }
   },
