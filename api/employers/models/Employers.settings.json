@@ -1,0 +1,25 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "employers",
+    "description": "Job employer"
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "code": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    },
+    "totalJobs": {
+      "type": "integer"
+    }
+  }
+}

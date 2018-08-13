@@ -159,5 +159,21 @@
         "appearance": ""
       }
     }
+  },
+  "employers": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "code": {
+        "appearance": ""
+      },
+      "logo": {
+        "appearance": ""
+      },
+      "totalJobs": {
+        "appearance": ""
+      }
+    }
   }
 }
