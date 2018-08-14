@@ -31,7 +31,7 @@
       "model": "worktypes"
     },
     "user": {
-      "model": "user",
+      "collection": "user",
       "via": "jobs",
       "plugin": "users-permissions"
     },
