@@ -61,7 +61,7 @@
     },
     "jobs": {
       "collection": "jobs",
-      "via": "user"
+      "via": "related"
     }
   },
   "collectionName": "users-permissions_user"
