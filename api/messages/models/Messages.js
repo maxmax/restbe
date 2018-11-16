@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Lifecycle callbacks for the `Sendmessage` model.
+ * Lifecycle callbacks for the `Messages` model.
  */
 
 module.exports = {

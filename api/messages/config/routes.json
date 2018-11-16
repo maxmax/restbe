@@ -2,48 +2,48 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/sendmessage",
-      "handler": "Sendmessage.find",
+      "path": "/messages",
+      "handler": "Messages.find",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/sendmessage/count",
-      "handler": "Sendmessage.count",
+      "path": "/messages/count",
+      "handler": "Messages.count",
       "config": {
         "policies": []
       }
     },
     {
       "method": "GET",
-      "path": "/sendmessage/:_id",
-      "handler": "Sendmessage.findOne",
+      "path": "/messages/:_id",
+      "handler": "Messages.findOne",
       "config": {
         "policies": []
       }
     },
     {
       "method": "POST",
-      "path": "/sendmessage",
-      "handler": "Sendmessage.create",
+      "path": "/messages",
+      "handler": "Messages.create",
       "config": {
         "policies": []
       }
     },
     {
       "method": "PUT",
-      "path": "/sendmessage/:_id",
-      "handler": "Sendmessage.update",
+      "path": "/messages/:_id",
+      "handler": "Messages.update",
       "config": {
         "policies": []
       }
     },
     {
       "method": "DELETE",
-      "path": "/sendmessage/:_id",
-      "handler": "Sendmessage.destroy",
+      "path": "/messages/:_id",
+      "handler": "Messages.destroy",
       "config": {
         "policies": []
       }

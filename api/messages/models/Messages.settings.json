@@ -1,0 +1,14 @@
+{
+  "connection": "default",
+  "collectionName": "send-message",
+  "info": {
+    "name": "messages",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    
+  }
+}
