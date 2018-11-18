@@ -90,6 +90,9 @@
       },
       "showHero": {
         "appearance": ""
+      },
+      "taxonomy": {
+        "appearance": ""
       }
     }
   },

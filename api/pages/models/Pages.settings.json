@@ -18,6 +18,9 @@
     "showHero": {
       "default": true,
       "type": "boolean"
+    },
+    "taxonomy": {
+      "type": "string"
     }
   }
 }
