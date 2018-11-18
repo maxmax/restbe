@@ -21,6 +21,9 @@
     },
     "taxonomy": {
       "type": "string"
+    },
+    "body": {
+      "type": "text"
     }
   }
 }

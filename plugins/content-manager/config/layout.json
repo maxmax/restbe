@@ -86,13 +86,16 @@
         "appearance": ""
       },
       "description": {
-        "appearance": "WYSIWYG"
+        "appearance": ""
       },
       "showHero": {
         "appearance": ""
       },
       "taxonomy": {
         "appearance": ""
+      },
+      "body": {
+        "appearance": "WYSIWYG"
       }
     }
   },
