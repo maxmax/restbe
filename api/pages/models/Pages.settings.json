@@ -24,6 +24,11 @@
     },
     "body": {
       "type": "text"
+    },
+    "headerImg": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload"
     }
   }
 }
