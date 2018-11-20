@@ -68,6 +68,9 @@
       "model": "file",
       "via": "related",
       "plugin": "upload"
+    },
+    "companyApprove": {
+      "type": "boolean"
     }
   },
   "collectionName": "users-permissions_user"
