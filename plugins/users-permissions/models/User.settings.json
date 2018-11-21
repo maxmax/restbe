@@ -69,9 +69,6 @@
       "via": "related",
       "plugin": "upload"
     },
-    "company": {
-      "type": "json"
-    },
     "companyApprove": {
       "type": "boolean"
     }
