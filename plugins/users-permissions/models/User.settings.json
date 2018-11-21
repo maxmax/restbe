@@ -71,6 +71,9 @@
     },
     "companyApprove": {
       "type": "boolean"
+    },
+    "company": {
+      "type": "json"
     }
   },
   "collectionName": "users-permissions_user"
