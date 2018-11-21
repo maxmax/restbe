@@ -68,6 +68,9 @@
       "model": "file",
       "via": "related",
       "plugin": "upload"
+    },
+    "company": {
+      "type": "json"
     }
   },
   "collectionName": "users-permissions_user"
