@@ -19,7 +19,11 @@
       "linkedin": {
         "appearance": ""
       },
+<<<<<<< HEAD
       "company": {
+=======
+      "companyApprove": {
+>>>>>>> be951b2583101919d8863342470d87c5ac94713e
         "appearance": ""
       }
     }

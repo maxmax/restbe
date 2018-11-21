@@ -69,8 +69,13 @@
       "via": "related",
       "plugin": "upload"
     },
+<<<<<<< HEAD
     "company": {
       "type": "json"
+=======
+    "companyApprove": {
+      "type": "boolean"
+>>>>>>> be951b2583101919d8863342470d87c5ac94713e
     }
   },
   "collectionName": "users-permissions_user"
